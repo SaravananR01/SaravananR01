@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saravanan</h1>
 <h3 align="center">CS Major | Passionate about building full-stack web apps, algorithm visualizations, and smart, real-world solutions using tools like React, Django, and Python.</h3>
 
-- 🔭 I’m currently working on [TrustVault](https://github.com/SaravananR01/TrustVault)
+- 🔭 I’m currently working on [TrustVault](https://github.com/SaravananR01/TrustVault), [ResAI](https://github.com/SaravananR01/ResAI)
 
 - 🌱 I’m currently learning **Machine Learning, Next.js**
 
